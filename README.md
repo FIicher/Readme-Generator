@@ -2,6 +2,7 @@
   <img src="https://dihu.fr/appgithub/iconedihu/9.png" width="120" style="border-radius: 20px; margin-bottom: 15px;">
   <H3>📄 GitHub README Generator</H3>
   <h4>Créez des README stylés pour vos projets GitHub en quelques clics !</h4>
+  <h4>Vous aimez mes readme.md? ils sont fait via ma webapp 😉</h4>
 </DIV>
 
 <b>Utilité :</b><br>
